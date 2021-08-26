@@ -1,0 +1,20 @@
+.section3-layout{
+    padding-top: 4%;
+    padding-left: 5vw;
+    padding-right: 5vw;
+    padding-bottom: 3%;
+}
+.section3-heading{
+    font-size: 20px;
+    letter-spacing: 0.1em;
+    font-weight: 400;
+}
+.section3-text{
+    font-size: 28px;
+    font-weight: 700;
+    letter-spacing: 0.07em;
+}
+.section5-text{
+    font-size: 28px;
+    font-weight: 700;
+}

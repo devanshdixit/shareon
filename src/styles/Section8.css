@@ -1,0 +1,29 @@
+.list-heading{
+    color: #2D2B5D;
+    list-style: none;
+    font-size: 24px;
+    font-weight: 800;
+}
+.rounded {
+    border-top: 3px solid rgb(0, 0, 0);
+}
+.list-subheading{
+    background-color: transparent;
+    font-size: 20px;
+    color: #2D2B5D;
+    font-weight: 500;
+}
+.section8-button{
+    background-color:  #2D2B5D;
+    color: white;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.section8-layout{
+    padding-top: 5%;
+    padding-left: 5vw;
+    padding-right: 5vw;
+    padding-bottom: 2%;
+}

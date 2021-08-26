@@ -1,0 +1,21 @@
+.section2-heading{
+    color: rgb(123,80,240);
+    font-weight: 500;
+    font-size: 22px;
+}
+.section2-text{
+    color: #2D2B5D;
+    font-size: 28px;
+    font-weight: 750;
+}
+.section2-button{
+    color: white;
+    font-size: 18px;
+    font-style: italic;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #6E3EF0;
+    border-radius: 50px;
+}

@@ -1,0 +1,31 @@
+.section {
+  padding-top: 20%;
+  padding-bottom: 200px;
+  padding-left: 5vw;
+  padding-right: 5vw;
+  background-color: aqua;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("./bg1.jpg");
+  filter: grayscale(100%);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.carousalHeading{
+  font-size: 48px;
+  font-weight: 700;
+  margin-bottom: 30px;
+}
+.carousalText{
+  font-size: 22px;
+  margin-bottom: 40px;
+}
+.carousalButton{
+  border: 1px solid white;
+  background-color: transparent;
+  color: white;
+  border-radius: 20px;
+  padding: 10px 40px !important;
+  margin: 0px !important;
+  font-style: italic;
+}

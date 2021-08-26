@@ -1,0 +1,42 @@
+.header {
+  background-color: transparent !important;
+  z-index: 999;
+  position: absolute;
+  left: 5vw;
+  right: 5vw;
+  margin-left: auto;
+  margin-right: auto;
+  color: white !important;
+}
+
+.headerlinks {
+  font-size: large;
+  color: white;
+  background-color: transparent;
+}
+.headerlinks:hover {
+  font-size: large;
+  color: rgb(199, 199, 199);
+}
+
+.button {
+  padding: 0px;
+  margin-left: 20px;
+}
+.buttonstyle {
+  background-color: #6e3ef0;
+  color: white;
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  border-radius: 20px;
+  border: 1px solid #6e3ef0;
+}
+
+@media screen and (max-width: 720px) {
+  .header {
+    left: 0px;
+    right: 0px;
+  }
+}

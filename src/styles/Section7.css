@@ -1,0 +1,26 @@
+.bgimage {
+    background-image: linear-gradient(rgba(0, 17, 255, 0.5), rgba(31, 44, 231, 0.5)),
+    url("./section7-1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.section7-title{
+    text-align: center;
+    font-size: 26px;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+.section7-card{
+    max-width: 400px;
+    padding: 20px;
+    background-color: white;
+    text-align: center;
+    color: #2D2B5D;
+}
+.section7-heading{
+    font-weight: 800;
+    font-size: 22px;
+}
+.section7-text{
+    font-size: 20px;
+}
